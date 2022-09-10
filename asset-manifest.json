@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tuman-kalyan/static/css/main.9f82d3ba.css",
-    "main.js": "/tuman-kalyan/static/js/main.7e471946.js",
-    "static/js/787.c36382c7.chunk.js": "/tuman-kalyan/static/js/787.c36382c7.chunk.js",
-    "static/media/hookahdrawing.png": "/tuman-kalyan/static/media/hookahdrawing.f4c5f8287d78b89c75c0.png",
-    "static/media/tumankalyan.png": "/tuman-kalyan/static/media/tumankalyan.5aab795cb0487e1f3e70.png",
-    "index.html": "/tuman-kalyan/index.html",
-    "main.9f82d3ba.css.map": "/tuman-kalyan/static/css/main.9f82d3ba.css.map",
-    "main.7e471946.js.map": "/tuman-kalyan/static/js/main.7e471946.js.map",
-    "787.c36382c7.chunk.js.map": "/tuman-kalyan/static/js/787.c36382c7.chunk.js.map"
+    "main.css": "/static/css/main.9f82d3ba.css",
+    "main.js": "/static/js/main.b1997a40.js",
+    "static/js/787.c36382c7.chunk.js": "/static/js/787.c36382c7.chunk.js",
+    "static/media/hookahdrawing.png": "/static/media/hookahdrawing.f4c5f8287d78b89c75c0.png",
+    "static/media/tumankalyan.png": "/static/media/tumankalyan.5aab795cb0487e1f3e70.png",
+    "index.html": "/index.html",
+    "main.9f82d3ba.css.map": "/static/css/main.9f82d3ba.css.map",
+    "main.b1997a40.js.map": "/static/js/main.b1997a40.js.map",
+    "787.c36382c7.chunk.js.map": "/static/js/787.c36382c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f82d3ba.css",
-    "static/js/main.7e471946.js"
+    "static/js/main.b1997a40.js"
   ]
 }
