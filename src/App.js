@@ -346,13 +346,20 @@ function App() {
                 </div>
               </TabPanel>
               <TabPanel style={{ position: 'absolute', top: '5vh', textAlign: 'center' }} value="3">
-                <p>Севастополь, улица Александра Маринеско, 1б/2</p>
+                <p>Г. Севастополь, ул Александра Маринеско, 1б/2</p>
                 <div title="embbed direction"
                   style={{ position: 'relative', overflow: 'hidden' }}>
                   <a href="https://yandex.com/maps/959/sevastopol/?utm_medium=mapframe&utm_source=maps" style={{ color: '#eee', fontSize: '12px', position: 'absolute', top: '0px' }}>Севастополь</a>
                   <a href="https://yandex.com/maps/959/sevastopol/house/vulytsia_oleksandra_marynesko_1b_2/Z0oYcgFkQE0DQFpufXl2dX1gZg==/?ll=33.464897%2C44.574136&utm_medium=mapframe&utm_source=maps&z=18.89" style={{ color: '#eee', fontSize: '12px', position: 'absolute', top: '14px' }}>Улица Александра Маринеско, 1б/2 — Яндекс Карты</a>
-                  <iframe title="embed direction" src="https://yandex.com/map-widget/v1/-/CCUVu-Hl1A" width="350" height="450" frameborder="1" allowfullscreen="true" style={{ position: 'relative' }}></iframe>
+                  <iframe title="embed direction" src="https://yandex.com/map-widget/v1/-/CCUVu-Hl1A" width="350" height="300" frameborder="1" allowfullscreen="true" style={{ position: 'relative' }}></iframe>
                 </div>
+                <p>Г. Севастополь, ул Павла Корчагина 23 корпус 1</p>
+                
+                <div style={{position:'relative', overflow:'hidden'}}>
+                  <a href="https://yandex.ru/navi/959/sevastopol/?utm_medium=mapframe&utm_source=maps" style={{color:'#eee', fontSize:'12px',position:'absolute',top:'0px'}}>Севастополь</a>
+                  <a href="https://yandex.ru/navi/959/sevastopol/house/ulitsa_pavla_korchagina_23_1/Z0oYcgRjSEICQFpufXl5dHRnbQ==/?ll=33.436340%2C44.587300&utm_medium=mapframe&utm_source=maps&z=14.36" style={{color:'#eee',fontSize:'12px',position:'absolute',top:'14px'}}>Улица Павла Корчагина, 23/1 — Яндекс Карты</a>
+                  <iframe title="embbed direction" src="https://yandex.ru/map-widget/v1/-/CCUvqWRk-B" width="350" height="300" frameborder="1" allowfullscreen="true" style={{position:'relative'}}></iframe>
+                  </div>
                 <h1><a href="tel:+7 (978) 345-28-29">+7 (978) 345-28-29</a></h1>
               </TabPanel>
 

@@ -1,7 +1,7 @@
 {
   "name": "tumankalyan",
   "version": "0.1.0",
-  "homepage": "https://alexanderbkl.github.io",
+  "homepage": "https://alexanderbkl.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
